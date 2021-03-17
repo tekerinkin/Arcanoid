@@ -1,2 +1,2 @@
 # Arcanoid
-**bold** My first game
+**My first game**
